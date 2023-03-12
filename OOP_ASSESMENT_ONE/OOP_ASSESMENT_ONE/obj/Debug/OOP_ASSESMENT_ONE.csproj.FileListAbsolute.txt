@@ -1,0 +1,8 @@
+C:\Users\ARKar\OneDrive - University of Lincoln\Documents\OOP_ASSESMENT_ONE\OOP_ASSESMENT_ONE\obj\Debug\OOP_ASSESMENT_ONE.csproj.AssemblyReference.cache
+C:\Users\ARKar\OneDrive - University of Lincoln\Documents\OOP_ASSESMENT_ONE\OOP_ASSESMENT_ONE\obj\Debug\OOP_ASSESMENT_ONE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARKar\OneDrive - University of Lincoln\Documents\OOP_ASSESMENT_ONE\OOP_ASSESMENT_ONE\obj\Debug\OOP_ASSESMENT_ONE.csproj.CoreCompileInputs.cache
+C:\Users\ARKar\OneDrive - University of Lincoln\Documents\OOP_ASSESMENT_ONE\OOP_ASSESMENT_ONE\bin\Debug\OOP_ASSESMENT_ONE.exe.config
+C:\Users\ARKar\OneDrive - University of Lincoln\Documents\OOP_ASSESMENT_ONE\OOP_ASSESMENT_ONE\bin\Debug\OOP_ASSESMENT_ONE.exe
+C:\Users\ARKar\OneDrive - University of Lincoln\Documents\OOP_ASSESMENT_ONE\OOP_ASSESMENT_ONE\bin\Debug\OOP_ASSESMENT_ONE.pdb
+C:\Users\ARKar\OneDrive - University of Lincoln\Documents\OOP_ASSESMENT_ONE\OOP_ASSESMENT_ONE\obj\Debug\OOP_ASSESMENT_ONE.exe
+C:\Users\ARKar\OneDrive - University of Lincoln\Documents\OOP_ASSESMENT_ONE\OOP_ASSESMENT_ONE\obj\Debug\OOP_ASSESMENT_ONE.pdb
